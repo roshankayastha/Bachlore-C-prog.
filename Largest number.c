@@ -22,5 +22,4 @@ void main()
 	else{
 		printf("The largest number is c"); //else this message will be displayed.
 	}
-	getch();
 }
